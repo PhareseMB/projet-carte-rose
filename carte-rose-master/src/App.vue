@@ -4,7 +4,7 @@ import { carterosePdf } from "./data/pdf/BaseModel";
 const dataValue = {
  
 
-  nomAdAssure: "mba ndong",
+  nomAdAssure: "mba ndong sima",
   adresseAssure: "BP Libreville",
   NomAdSoCiete: "NSIA ",
   NumChassis: "202045",
@@ -16,7 +16,7 @@ const dataValue = {
   police: "GB400698831225",
   BureauEmetteur: "Glass",
   assureur: "NSIA",
-  marquetype: "toyota bus",
+  marquetype: "toyota yaris",
   immatriculation: 100000522,
 
 };
